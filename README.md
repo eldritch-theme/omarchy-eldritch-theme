@@ -24,5 +24,14 @@ omarchy-theme-install https://github.com/eldritch-theme/omarchy.git
 3. Select *Style*, then *Theme*, then *Eldritch*.
 4. Enjoy!
 
+#### Remove Opacity
+1. Access looknfeel.conf either by:
+  - `~/.config/hypr/looknfeel.conf`
 
-
+    or
+  - Omarchy Menu (`SUPER+ALT+SPACE`) > Setup > Hyperland (this opens `~/.config/hypr/looknfeel.conf`)
+2. Add this:
+```
+# Force full opacity (overrides default Omarchy opacity rules)
+windowrule = opacity 1 1, class:.*
+```
