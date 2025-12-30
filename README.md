@@ -5,7 +5,7 @@
 Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With tones from the dark abyss and an emphasis on green and blue, it caters to those who appreciate the darker side of life.
 </p>
 
-Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
+Main Theme repo can be found [here](https://github.com/eldritch-theme/omarchy-eldritch-theme)
 
 ### Showcase:
 <img width="3429" height="1433" alt="preview" src="https://github.com/user-attachments/assets/8ffe573c-5548-43d2-b61c-a34e8527cd72" />
@@ -15,7 +15,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 ### Installation:
 #### Automatically with omarchy-theme-install
 ```
-omarchy-theme-install https://github.com/eldritch-theme/omarchy.git
+omarchy-theme-install https://github.com/eldritch-theme/omarchy-eldritch-theme.git
 ```
 
 #### Manual
