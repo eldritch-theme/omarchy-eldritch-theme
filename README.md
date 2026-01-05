@@ -18,6 +18,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/omarchy-el
 omarchy-theme-install https://github.com/eldritch-theme/omarchy-eldritch-theme.git
 ```
 
+```
 #### Manual
 1. Clone this repo inside `~/.config/omarchy/themes`.
 2. `SUPER+ALT+SPACE` to open walker.
